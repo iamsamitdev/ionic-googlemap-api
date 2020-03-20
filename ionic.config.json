@@ -1,0 +1,7 @@
+{
+  "name": "ionic-googlemap-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
